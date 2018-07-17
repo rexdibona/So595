@@ -12,7 +12,7 @@
 begin	KEYWORD2
 clear	KEYWORD2
 enable	KEYWORD2
-disable KEYWORD2
+disable	KEYWORD2
 write	KEYWORD2
 set	KEYWORD2
 #######################################
